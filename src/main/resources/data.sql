@@ -1,0 +1,1 @@
+INSERT INTO ROLE(perfil) VALUES ('ROLE_USER');
